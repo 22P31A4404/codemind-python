@@ -1,4 +1,3 @@
-
 n = int(input())
 sq_n=n*n
 rev=0
